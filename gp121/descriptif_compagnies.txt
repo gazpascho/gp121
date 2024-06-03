@@ -1,0 +1,22 @@
+nomComp,codOACI,siegeSocial,alliance,nbAvions,nbDessertes
+
+air_france,AFR,charles_de_gaulle,skyteam,333,210
+
+american_airlines,AAL,dallas,oneworld,960,210
+
+british_airways,BAW,london_heathrow,oneworld,274,210
+
+air_canada,ACA,aeroport Toronto,skyteam,456,12
+
+air_algerie,DAH,aeroport alger,skyteam,90,100
+
+iberia,IBE,aeroport madrid,One world,200,300
+
+turkish,TUR,istanbul,sky team,145,180
+
+testairlines,tes,lyon,onetest,320,200
+
+timevol,TIM,TIME,TIM,32,43
+
+canadaairlines,CAN,montreal,CANA,65,65
+finlandair,FAI,Oslo,OSL,43,43
